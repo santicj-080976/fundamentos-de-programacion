@@ -1,0 +1,7 @@
+=== REGISTRO DE ASISTENCIA CBTIS 118 ===
+Matrícula: al71234
+Alumno: Jose
+Estado: Asistencia
+Fecha: 25/9/2026
+----------------------------------------
+

@@ -1,0 +1,12 @@
+=== REGISTRO DE ASISTENCIA CBTIS 118 ===
+Matrícula: al88002
+Alumno: Juan
+Estado: Retardo
+Fecha: 25/9/2026
+----------------------------------------
+
+--- NOTA / JUSTIFICANTE ---
+Observación: El alumno falto por un accidente
+Fecha: 25/9/2026
+---------------------------
+

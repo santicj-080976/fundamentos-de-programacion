@@ -1,0 +1,14 @@
+=== REGISTRO DE ASISTENCIA CBTIS 118 ===
+Matrícula: al050505
+Alumno: Omar
+Estado: Falta
+Fecha: 25/9/2026
+----------------------------------------
+
+=== REGISTRO DE ASISTENCIA CBTIS 118 ===
+Matrícula: al92881
+Alumno: Jorge
+Estado: Falta
+Fecha: 25/9/2026
+----------------------------------------
+
